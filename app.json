@@ -3,7 +3,7 @@
   "description": "[Zee-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/eff1c0d9b8ed64fd017e8.jpg",
   "keywords": ["telegram", "userbot", "zee-userbot", "modular", "python"],
-  "repository": "https://github.com/kykoubot/Zee-Userbot",
+  "repository": "https://github.com/akazabot/Zee-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
